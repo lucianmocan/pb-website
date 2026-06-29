@@ -4,15 +4,18 @@ draft: false
 weight: 20
 ---
 
+
+- F Doku, J. Laughton, N. Wanninger, P. Dinda, CAPIO: Safe Kernel-Bypass of Commodity Devices Using Capabilities, Northwestern University Technical Report NU-CS-2025-49, December, 2025.  \[[paper](https://www.mccormick.northwestern.edu/computer-science/documents/nu_tech_report_doku_capio-49.pdf)\]
+
 - F. Doku, P. Dinda,
 TRUSTCHECKPOINTS: Time Betrays Malware for Unconditional Software Root of Trust,
-Northwestern University Technical Report NU-CS-2025-37.
+Northwestern University Technical Report NU-CS-2025-37, September, 2025. 
 \[[paper](papers/tc_nu_report.pdf)\]
 
 - H. Qiao, V. Srinivas, P. Dinda, R. Dick,
 Redaction at the Edge: Efficient Human Motion Tracking for Privacy Protection,
-Proceedings of the International Conference on Hardware/Software Codesign and System Synthesis (CODES-ISSS 2025),
-October, 2025. \[[paper](papers/qiao25sep.pdf)\]
+Proceedings of the International Conference on Hardware/Software Codesign and System Synthesis (CODES-ISSS 2025) and ACM Transactions on Embedded Computer Systems (TECS) 24:5s,
+September/October, 2025. \[[paper](papers/qiao25sep.pdf)\]
 
 - M. Polinski, R. Jo, K. McAfee, F. Bustamante,
 The Centralization of a Decentralized Video Platform - A First Characterization of PeerTube,
