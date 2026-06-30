@@ -20,6 +20,8 @@ weight: 20
 - [Nick Wanninger](https://nickw.io) (Ph.D. Student, Northwestern University)
 - Haotian Qiao (Ph.D. Student, University of Michigan)
 - [Yao (Astra) Xiao](https://www.linkedin.com/in/yao-sissi-xiao/) (M.S. Student, Northwestern University)
+- [Lucian Mocan](https://lucianmocan.com) (M.S. Student, University of Strasbourg)
+
 
 ### Undergraduates
 
